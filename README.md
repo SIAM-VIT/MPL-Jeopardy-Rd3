@@ -80,7 +80,7 @@ Each section within the file has a readme, it involves general rules for that se
 
 All codes are commented and CSS file follwos a pattern mentioned in ReadMe.
 
-Disclaimer: The code will not run on github pages as it uses relative addressing. The images and audios will mess up. To run the code, clone the repo to local system (or fork it) and use the VSCode live server extension (by Ritwick Dey). To make the images, audios and links work on a regular double click rather than a live server, change all relative addresses to absolute addresses.
+The code will not run on github pages as it uses relative addressing. The images and audios will mess up. To run the code, clone the repo to local system (or fork it) and use the VSCode live server extension (by Ritwick Dey). To make the images, audios and links work on a regular double click rather than a live server, change all relative addresses to absolute addresses.
 
 ## Contributors
 
